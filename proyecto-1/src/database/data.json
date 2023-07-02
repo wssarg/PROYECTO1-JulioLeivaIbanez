@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"imagen": "🐕",
+		"nombre": "Eddie",
+		"raza": "Ovejero Alemán",
+		"peso": 20
+	},
+	{
+		"id": 2,
+		"imagen": "🦮",
+		"nombre": "Jaco",
+		"raza": "Labrador",
+		"peso": 22
+	},
+	{
+		"id": 3,
+		"imagen": "🐶",
+		"nombre": "Jimmy",
+		"raza": "Mestizo",
+		"peso": 7
+	},
+	{
+		"id": 4,
+		"imagen": "🐕‍🦺",
+		"nombre": "Uma",
+		"raza": "Pastor Belga",
+		"peso": 15
+	},
+	{
+		"id": 5,
+		"imagen": "🐩",
+		"nombre": "Flopi",
+		"raza": "Cocker Spaniel",
+		"peso": 6
+	},
+	{
+		"id": 6,
+		"imagen": "🦊",
+		"nombre": "Lola",
+		"raza": "Labrador",
+		"peso": 19
+	},
+	{
+		"id": 7,
+		"imagen": "🐺",
+		"nombre": "Lobo",
+		"raza": "Lobo Siberiano",
+		"peso": 16
+	},
+	{
+		"id": 8,
+		"imagen": "🐻",
+		"nombre": "Oso",
+		"raza": "Pastor Alemán",
+		"peso": 19
+	}
+]
